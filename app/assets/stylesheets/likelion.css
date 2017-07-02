@@ -1,0 +1,137 @@
+#test{
+    font-size:100px;
+}
+
+
+
+header{
+    position:fixed;
+    left:0px;
+    right: 0px;
+    top: 0px;
+    position: fixed;
+    margin:0px;
+    height:80px;
+    background-color:white;
+    position: relative;
+    
+}
+
+
+header div div{
+    position:fixed;
+    float: left;
+    font-size:35pt;
+    color:#ffa500;
+    font-weight:bold;
+    font-family:courier;
+    line-height: 80px;
+}
+
+
+
+.navbar ul li{
+    font-size: 15pt;
+      background: white;
+      margin: 0; padding: 26.6px;
+      list-style: none;
+      display: inline;
+      float: right;
+      color:white;
+}
+
+.navbar a{
+    color:black;
+    text-decoration:none;
+    font-family:courier;
+}
+
+.section1 {
+    background-image: url(http://i.imgur.com/cvmk39S.jpg);
+    background-size: cover;
+    height: 600px;
+    color: white;
+}
+
+
+
+.container{ 
+    width:960px;
+    margin : 0 auto;
+    
+}
+.container .p{ 
+    width:960px;
+    color:white;
+}
+
+.section1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.weare {
+    font-size: 60px;
+    font-family: courier;
+}
+
+.weare2 {
+    font-size: 20px;
+    font-family: courier;
+    width: 500px;
+   
+}
+
+.button {
+	display : block;
+	padding : 1em;
+
+	border-radius : 10em;
+	color : #fff;
+	font-size : 18px;
+	font-family : courier;
+	font-weight : 700;
+	text-align : center;
+	text-decoration : none;
+	background-color : orange;
+	
+}
+
+.section2{
+    margin:0px;
+    background-color:white;
+    text-align:center;
+}
+
+.section2 div{
+   /*border: 1px solid gold; float: left; width: 30%; padding:10px;*/
+   display:inline-block;
+   height:400px; width: 300px; padding-top:20px; padding-right:10px; padding-left:10px; padding-bottom:10px; margin:10px;
+   border: 1px solid gold;
+   
+   
+}
+
+
+
+
+
+
+
+footer{
+    background-color:black; 
+    height:100px;
+}
+
+#footer_text{
+    padding-top:40px;
+    color:white;
+    text-align: center;
+}
+
+* {margin: 0px;
+      padding: 0px;
+}
